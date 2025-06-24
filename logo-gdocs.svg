@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="43px" viewBox="0 0 44 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-gdocs</title>
+    <g id="logo-gdocs" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Layer_1" transform="translate(7, 1)">
+            <path d="M27.1875,42 L2.8125,42 C1.265625,42 0,40.7113636 0,39.1363636 L0,2.86363636 C0,1.28863636 1.265625,0 2.8125,0 L19.6875,0 L30,10.5 L30,39.1363636 C30,40.7113636 28.734375,42 27.1875,42 Z" id="Path" fill="#3086F6" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#0C67D6" fill-rule="nonzero" points="19.6875 0 30 10.5 19.6875 10.5"></polygon>
+            <path d="M23.4375,18.6136364 L6.5625,18.6136364 L6.5625,16.2272727 L23.4375,16.2272727 L23.4375,18.6136364 Z M23.4375,21.9545455 L6.5625,21.9545455 L6.5625,24.3409091 L23.4375,24.3409091 L23.4375,21.9545455 Z M18.75,27.6818182 L6.5625,27.6818182 L6.5625,30.0681818 L18.75,30.0681818 L18.75,27.6818182 Z" id="Shape" fill="#FDFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

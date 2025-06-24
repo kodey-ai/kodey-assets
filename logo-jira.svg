@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="43px" viewBox="0 0 41 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-jira</title>
+    <defs>
+        <linearGradient x1="66.7364864%" y1="40.3310069%" x2="40.4995871%" y2="80.423766%" id="linearGradient-1">
+            <stop stop-color="#0052CC" offset="17.6%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.6436524%" y1="59.1563209%" x2="59.6593836%" y2="19.353705%" id="linearGradient-2">
+            <stop stop-color="#0052CC" offset="17.6%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logo-jira" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-5" fill-rule="nonzero">
+            <path d="M40.0028119,20.3086952 L21.9904673,1.81529619 L20.2224816,0 L6.68555012,13.898419 L0.497272986,20.3086952 C-0.165757662,20.9895286 -0.165757662,22.0671905 0.497272986,22.6913048 L12.8738293,35.398419 L20.2224816,42.943281 L33.7592073,29.0448619 L33.9801798,28.8179857 L40.0028119,22.6913048 C40.6657294,22.0104714 40.6657294,20.9328095 40.0028119,20.3086952 Z M20.2224816,27.8535571 L14.0341201,21.5 L20.2224816,15.1464429 L26.4107402,21.5 L20.2224816,27.8535571 Z" id="Shape" fill="#2684FF"></path>
+            <path d="M20.2224816,15.1464429 C16.1889517,11.0052971 16.1337086,4.25462476 20.1671356,0.0567395238 L6.68552954,13.9551586 L14.0340995,21.5 L20.2224816,15.1464429 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M26.4658804,21.443281 L20.2222758,27.8535571 C24.31109,32.051381 24.31109,38.8019714 20.2222758,43 L33.8145533,29.0448619 L26.4658804,21.443281 Z" id="Path" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

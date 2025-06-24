@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="43px" viewBox="0 0 44 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-googleads</title>
+    <g id="logo-googleads" stroke="none" fill="none" transform="translate(0, 0)" fill-rule="evenodd" stroke-width="1">
+        <g id="Group" transform="translate(0, 1.7748)">
+            <path d="M1.012,28.6008771 L15.62,3.5921875 C17.4755862,4.6846013 26.8324138,9.86294612 28.3435862,10.8476358 L13.7355862,35.8578426 C12.137931,37.9683255 -1.012,31.8037737 1.012,28.5993599 L1.012,28.6008771 Z" id="Path" fill="#FBBC04" fill-rule="nonzero"></path>
+            <path d="M42.983226,28.6003075 L28.375226,3.59313506 C26.3330191,0.194514375 21.9345364,-1.04052011 18.3219847,0.966790237 C14.7094329,2.97410058 13.6094329,7.29823851 15.6516398,10.8485833 L30.2596398,35.8587902 C32.3018467,39.2558937 36.7003295,40.4909282 40.3128811,38.4836179 C43.7676398,36.4763075 45.0254329,31.9989282 42.983226,28.6033419 L42.983226,28.6003075 Z" id="Path" fill="#4285F4" fill-rule="nonzero"></path>
+            <ellipse id="Oval" fill="#34A853" fill-rule="nonzero" cx="7.33282758" cy="32.2995087" rx="7.33282758" ry="7.15075862"></ellipse>
+        </g>
+    </g>
+</svg>

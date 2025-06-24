@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-trainerize</title>
+    <defs>
+        <path d="M0,21.5000712 C0,33.3750728 9.8487957,43.0000968 21.9999739,43.0000968 C34.1512758,43.0000968 44,33.3750728 44,21.5000712 C44,9.62496212 34.1512758,0 21.9999739,0 C9.8487957,0 0,9.62496212 0,21.5000712 Z" id="path-1"></path>
+    </defs>
+    <g id="logo-trainerize" stroke="none" fill="none" transform="translate(0, 0.5)" fill-rule="evenodd" stroke-width="1">
+        <g id="Clipped" transform="translate(0, -0.0344)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Path" fill="#FEC910" xlink:href="#path-1"></use>
+            <path d="M25.0923525,13.3353021 L13.1855259,42.9999624 L18.1380068,42.9999624 L28.1935312,17.9457139 L38.8035938,17.9457139 L40.7112711,13.3353021 L25.0923525,13.3353021 Z M14.4259149,34.2382988 L9.45456898,34.2382988 L17.8467814,13.3353021 L6.27815021,13.3353021 L8.18588247,8.72487699 L24.669402,8.72487699 L14.4259149,34.2475707 L14.4259149,34.2382988 Z" id="Shape" fill="#241F21" fill-rule="nonzero" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

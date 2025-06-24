@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="43px" viewBox="0 0 44 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-clickup</title>
+    <defs>
+        <linearGradient x1="0%" y1="68.01%" x2="100%" y2="68.01%" id="linearGradient-1">
+            <stop stop-color="#8930FD" offset="0%"></stop>
+            <stop stop-color="#49CCF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="68.01%" x2="100%" y2="68.01%" id="linearGradient-2">
+            <stop stop-color="#FF02F0" offset="0%"></stop>
+            <stop stop-color="#FFC800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logo-clickup" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Graphic" transform="translate(4, 0)">
+            <g id="Group" transform="translate(0.1108, 0.0444)">
+                <path d="M0,33.0018065 L6.59353846,27.9416774 C10.0966154,32.521871 13.8184615,34.6330323 17.9612308,34.6330323 C22.0818462,34.6330323 25.6984615,32.5468387 29.0436923,28.0027097 L35.7313846,32.9407742 C30.9046154,39.4934194 24.9064615,42.9556129 17.9612308,42.9556129 C11.0381538,42.9556129 4.98184615,39.5156129 0,33.0018065 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="17.9390769 11.008 6.20307692 21.1393548 0.778153846 14.8363871 17.964 0 35.0141538 14.8474839 29.5643077 21.1282581"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
